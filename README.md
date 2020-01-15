@@ -7,7 +7,7 @@
 
 ## Getting started
 
-To start project, run:
+To start the project, please run:
 
 ```
 docker-compose up
